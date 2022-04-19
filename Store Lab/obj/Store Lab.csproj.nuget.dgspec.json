@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Store Lab\\Store Lab\\Store Lab.csproj": {}
+    "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Ilya Eselevich\\Store Lab\\Store Lab\\Store Lab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Store Lab\\Store Lab\\Store Lab.csproj": {
+    "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Ilya Eselevich\\Store Lab\\Store Lab\\Store Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Store Lab\\Store Lab\\Store Lab.csproj",
+        "projectUniqueName": "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Ilya Eselevich\\Store Lab\\Store Lab\\Store Lab.csproj",
         "projectName": "Store Lab",
-        "projectPath": "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Store Lab\\Store Lab\\Store Lab.csproj",
+        "projectPath": "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Ilya Eselevich\\Store Lab\\Store Lab\\Store Lab.csproj",
         "packagesPath": "C:\\Users\\olego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Store Lab\\Store Lab\\obj\\",
+        "outputPath": "C:\\Users\\olego\\Projects\\Commerce\\Console Apps\\Ilya Eselevich\\Store Lab\\Store Lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olego\\AppData\\Roaming\\NuGet\\NuGet.Config",
